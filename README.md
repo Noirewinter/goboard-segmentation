@@ -1,4 +1,4 @@
-# <img src="./board.png" width="24" /> GoBoard lines segmentation
+# <img src="./board.png" width="24" /> GoBoard segmentation
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat-square&logo=Pytorch&logoColor=white)
 ![TFLite](https://img.shields.io/badge/-TFLite-yellow?style=flat-square&logo=tensorflow&logoColor=white)
