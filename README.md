@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white)
 
-## Desgin goals
+## Design goals
 
 This project is an attempt to solve the recognition of Go board information through visual technology in the Go game scenario. Its main application is the segmentation task of lines on the Go board, accurately identifying the position of lines from the board. Subsequently, it can be combined with tasks such as detection to match the relationship between various objects to achieve accurate reconstruction of board information.
 
