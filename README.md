@@ -50,7 +50,7 @@ To inference based on TFLite model, run:
 ./tflite_infer.py [-h] --model_path MODEL_PATH [--data_dir DATA_DIR] [--output_dir OUTPUT_DIR] [--imgsz IMGSZ]
 ```
 
-**Here are some examples of visualization:** 
+**Here are some examples of visualization (with test model [board-seg.pth](https://github.com/Noirewinter/goboard-segmentation/releases/download/v0.1.0/board-seg.pth)):** 
 <p align="left">
     <img src="./images/outputs/intersections_IMG_0661.JPG" width="300" height="260" />
     <img src="./images/outputs/intersections_IMG_0789.JPG" width="300" height="260" />

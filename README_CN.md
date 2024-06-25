@@ -50,7 +50,7 @@
 ./tflite_infer.py [-h] --model_path MODEL_PATH [--data_dir DATA_DIR] [--output_dir OUTPUT_DIR] [--imgsz IMGSZ]
 ```
 
-**下面是一些可视化的示例:**
+**下面是一些可视化的示例（测试模型 [board-seg.pth](https://github.com/Noirewinter/goboard-segmentation/releases/download/v0.1.0/board-seg.pth)）:**
 <p align="left">
     <img src="./images/outputs/intersections_IMG_0661.JPG" width="300" height="260" />
     <img src="./images/outputs/intersections_IMG_0789.JPG" width="300" height="260" />
